@@ -66,3 +66,4 @@ weather.maxTemperature();
 weather.averageTemperature();
 String(weather);
 Number(weather); 
+
